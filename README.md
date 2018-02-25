@@ -1,2 +1,0 @@
-# trend-tipper
-tech networking
